@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
       <p>I'm making this by following the Gatsby Tutorial.</p>
-      <h1>Pozdrawiam wszystkich</h1>
+      <h1>Pozdrawiam wszystkich na mojej stronie</h1>
       <StaticImage
         alt="Funny cat"
         src="../images/cat.jpg"
